@@ -1,4 +1,4 @@
-#Toontown Doodle Training Macro in Python by TheMaskedMeowth
+#Toontown Doodle Training Macro in Python by Obligatory Unicorn
 #requires maximized window at 1920x1080 and running script with administrator access
 
 import win32api, win32gui, win32con, win32com.shell.shell as shell, time, random, msvcrt, _thread
